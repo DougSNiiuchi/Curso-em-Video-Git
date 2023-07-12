@@ -1,2 +1,5 @@
 # Curso em Video Git
- primeiro repositório do curso em video
+ Primeiro repositório do curso em video 
+
+ Repositório criado na aula 5 do Cruso em vídeo - Prof Guanabara
+ 
